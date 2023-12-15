@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on FireDragon Gaming Comp.
+- 🔭 I’m currently working on FireDragon Digital Gaming Comp.
 - 🌱 I’m currently learning C++, HTML, SQL,
 - 😄 Pronouns: She/Her/Hers
 <!--
