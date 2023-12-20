@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on FireDragon Digital Gaming Comp.
-- 🌱 I’m currently learning C++(Algorithm, Windows Form), HTML, SQL, Computer Security Skills
+- 🌱 I’m currently learning C++(Algorithm, Windows Form), HTML, SQL, Computer Security Skills, and AI(TTS, LLM, NLP)
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: Discord(yvecca)
 - ⚡ Fun fact: I like MapleStory, FPS Games, Codeforces and VTubers
