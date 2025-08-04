@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m searching jobs right now.
+- 🔭 I’m currently work at TOPCO SCIENTIFIC Co., Ltd. as an engineer.
 - 🌱 I’m currently learning C++(Algorithm, Windows Form), HTML, SQL, Computer Security Skills, and AI(TTS, LLM, NLP)
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: Discord(yvecca)
-- ⚡ Fun fact: I like MapleStory, FPS Games, Codeforces and VTubers
+- ⚡ Fun fact: I like Monster Hunter: World, FPS Games, Codeforces and VTubers
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
