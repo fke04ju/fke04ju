@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Asumi Yukina, most commonly used ID is Yvecca
 
 <!--
 **fke04ju/fke04ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-![Yvecca's Github stats](https://github-readme-stats-three-gules-16.vercel.app/api?username=fke04ju&theme=vue-dark&line_height=22&show_icons=true&layout=compact&hide=less)
+![Yukina's Github stats](https://github-readme-stats-three-gules-16.vercel.app/api?username=fke04ju&theme=vue-dark&line_height=22&show_icons=true&layout=compact&hide=less)
 ![Languages](https://github-readme-stats-three-gules-16.vercel.app/api/top-langs/?username=fke04ju&theme=vue-dark&line_height=22&show_icons=true&layout=compact&hide=less)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Yvecca?theme=dark&font=Content&ext=activity)
