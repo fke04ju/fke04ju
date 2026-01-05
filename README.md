@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently work at TOPCO SCIENTIFIC Co., Ltd. as an engineer.
+- 🔭 I’m currently work at TOPCO SCIENTIFIC Co., Ltd. as an engineer, still looking for better job.
 - 🌱 I’m currently learning C++(Algorithm, Windows Form), HTML, SQL, Computer Security Skills, and AI(TTS, LLM, NLP)
 - 😄 Pronouns: She/Her/Hers
 - 📫 How to reach me: Discord(yvecca)
